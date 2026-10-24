@@ -11,6 +11,7 @@ A collection of agent skills that improve your development workflows.
 | [fix-ci](skills/fix-ci/SKILL.md) | Diagnose failing CI checks and apply focused fixes. |
 | [visualize-pr](skills/visualize-pr/SKILL.md) | Create an interactive HTML walkthrough of a PR. User-invoked. |
 | [make-pr-easy-to-review](skills/make-pr-easy-to-review/SKILL.md) | Improve PR descriptions, guide reviewers through changes, and organize commits. |
+| [baton](skills/baton/SKILL.md) | Turn agreed decisions into a code-grounded implementation handoff. |
 
 ## Install
 

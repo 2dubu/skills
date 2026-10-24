@@ -1,0 +1,3 @@
+interface:
+  display_name: "Baton"
+  short_description: "Turn agreed decisions into a code-grounded handoff"
